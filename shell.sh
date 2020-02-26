@@ -1,6 +1,4 @@
 #!/bin/bash
-_test_func(){ 
- echo 'test'
-}
-
-_test_func
+echo "Hello JD"
+cd /tmp
+ls -ltr|tail
