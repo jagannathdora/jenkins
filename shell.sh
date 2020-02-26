@@ -1,2 +1,4 @@
-echo "Hello World"
-pwd
+#!/bin/bash
+_test_func(){ 
+ echo 'test'
+}
