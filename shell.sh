@@ -2,4 +2,4 @@
 echo "Hello JD"
 echo "This is my Program and commit"
 pwd
-echo "nd"
+echo "addd"
